@@ -1,0 +1,20 @@
+.horizonaltal-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(246, 219, 11);
+  text-align: center;
+}
+
+.horizonaltal-menu li{
+  display: inline-block;
+
+}
+
+.horizonaltal-menu a {
+  color: #333;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+}
